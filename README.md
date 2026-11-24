@@ -35,3 +35,4 @@ Se extraerán mediante Biopython las secuencias originales en ADN (.ffn) de 20 g
 ## 5.5 la quinta fase de visualización de resultados
 El árbol enraizado será editado y anotado en la plataforma web iTOL, mientras que los mapas de calor (heatmaps) de identidad ANI y los gráficos de composición del pangenoma se generarán en Python mediante las librerías Pandas, Seaborn y Matplotlib.
 
+# 6.Instrucciones de ejecución
