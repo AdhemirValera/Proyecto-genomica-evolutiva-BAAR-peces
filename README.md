@@ -1,4 +1,4 @@
-#Filogenómica comparativa y arquitectura evolutiva del pangenoma de micobacterias en peces ornamentales
+*Filogenómica comparativa y arquitectura evolutiva del pangenoma de micobacterias en peces ornamentales*
 
 ##1. Descripción del proyecto
 Las micobacterias no tuberculosas (MNT) son los principales agentes causales de la micobacteriosis en peces ornamentales y representan un riesgo zoonótico relevante en el comercio acuícola. Sin embargo, los métodos tradicionales basados en un solo gen marcador (como el 16S rRNA) carecen de resolución para diferenciar especies estrechamente emparentadas y no capturan los cambios genómicos responsables de la adaptación al entorno acuático.
